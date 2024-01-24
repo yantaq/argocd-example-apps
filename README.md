@@ -2,6 +2,7 @@
 
 Local Change 1
 Remote change
+Experiment with -- git push --tags
 
 This repository contains example applications for demoing ArgoCD functionality. Feel free
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
